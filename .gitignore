@@ -1,1 +1,10 @@
 weight.pth
+runs
+*.tflite
+*.onnx
+*.pth
+tfl
+*.h5
+*.pb
+*.pt
+keras_model/
